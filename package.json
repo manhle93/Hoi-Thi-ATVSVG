@@ -22,10 +22,10 @@
         "sass-loader": "^7.1.0",
         "vue": "^2.6.10",
         "vue-template-compiler": "^2.6.10",
-        "webpack-cli": "^3.3.6"
+        "webpack-cli": "^3.3.12"
     },
     "dependencies": {
-        "vue-awesome-countdown": "^1.0.16",
+        "vue-awesome-countdown": "^1.1.4",
         "vue-circular-count-down-timer": "^1.0.4",
         "vue-easy-lightbox": "^0.10.3"
     }
